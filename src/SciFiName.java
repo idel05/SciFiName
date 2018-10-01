@@ -6,7 +6,7 @@
  * @author ckinnard
  * @version 3/4/16
  */
-
+package com.swcomputorsci
 public class SciFiName   
 {
     /**
